@@ -1,4 +1,3 @@
-
 # Formação em Excel, Power BI e DAX
 
 Documentação dos estudos realizados no curso **Excel + Power BI + DAX — 7 Cursos em 1 Formação Especialista**, pela Udemy.
@@ -8,8 +7,9 @@ Documentação dos estudos realizados no curso **Excel + Power BI + DAX — 7 Cu
 Formação voltada ao desenvolvimento de conhecimentos em planilhas, análise de dados, Business Intelligence e criação de relatórios para apoiar a tomada de decisões.
 
 - **Instituição:** Udemy
-- **Carga horária:** 52h39min
-- **Conclusão:** Outubro de 2026
+- **Carga horária:** 52,5 horas
+- **Conclusão:** 24 de outubro de 2026
+- **Instrutor:** Jilson Santana
 - **Status:** Concluído
 
 ## Conteúdos e ferramentas
@@ -20,7 +20,7 @@ Formação voltada ao desenvolvimento de conhecimentos em planilhas, análise de
 - **DAX:** criação de medidas e indicadores.
 - **Macros e VBA:** automação de tarefas em Excel.
 
-*Os tópicos devem ser conferidos com o conteúdo efetivamente concluído no curso.*
+*Os tópicos acima devem ser conferidos com o conteúdo efetivamente concluído no curso.*
 
 ## Competências desenvolvidas
 
@@ -32,9 +32,10 @@ Formação voltada ao desenvolvimento de conhecimentos em planilhas, análise de
 
 ## Certificado
 
-O certificado de conclusão será disponibilizado nesta seção.
+[**Visualizar certificado de conclusão (PDF)**](./Certificado%20Udemy.pdf)
 
-**Arquivo:** `certificado-curso.pdf`
+- **Identificação do certificado:** UC-d3e65422-fb42-4b23-a9ae-a252071faebb
+- [Verificar certificado na Udemy](https://ude.my/UC-d3e65422-fb42-4b23-a9ae-a252071faebb)
 
 ## Aplicação prática
 
